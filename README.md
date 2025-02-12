@@ -2,13 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailpatel36)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailpatel1312@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yourprofile/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/
+shailpatel36)
 
 👨💻 **Full-Stack Developer** | 4+ years building enterprise-grade systems  
-🎓 MS Computer Science @ NYIT | AWS Certified Solutions Architect  
-💡 Expertise: Microservices Architecture (Node.js/TypeScript), Cloud Optimization (AWS Lambda/EC2), Real-time Systems (WebSocket/GraphQL)  
-🏆 Achieved: 99.9% service uptime | 30% bundle size reduction | 20% fewer deployment errors  
-📚 TA for 40+ students | Open Source Contributor | CI/CD Evangelist  
 
 ---
 
