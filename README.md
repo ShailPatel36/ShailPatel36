@@ -50,3 +50,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=shailpatel36&style=flat-square&color=blueviolet)
 
+
+🐍 Contribution Snake  
+![Snake animation](https://github.com/shailpatel36/shailpatel36/blob/output/github-contribution-grid-snake.svg)
