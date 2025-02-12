@@ -46,34 +46,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### [Subscription Management Platform](https://github.com/shailpatel36)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-- SaaS platform for subscription management with real-time analytics
-- Implemented WebSocket notifications and billing integration
-
-#### [E-commerce Platform](https://github.com/shailpatel36)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
-- Server-rendered e-commerce solution with Stripe/PayPal integration
-- Enhanced SEO through SSR and optimized bundle sizes
-
----
-
-### 💼 Professional Highlights
-
-✅ Built fault-tolerant AWS services achieving **99.9% uptime**  
-✅ Reduced deployment errors by **20%** through CI/CD automation  
-✅ Optimized frontend bundle size by **30%** using Webpack  
-✅ Maintained **95% test coverage** with Jest/React Testing Library  
-✅ Developed **15+ new features** for enterprise applications  
-
----
-
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/shailpatel36)
@@ -82,5 +54,3 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=shailpatel36&style=flat-square&color=blueviolet)
 
-🐍 Contribution Snake  
-![Snake animation](https://github.com/shailpatel36/shailpatel36/blob/output/github-contribution-grid-snake.svg)
