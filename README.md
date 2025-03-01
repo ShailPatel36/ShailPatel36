@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailpatel1312@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/shailpatel36)
 
-👨💻 **Full-Stack Developer** | 4+ years building enterprise-grade systems  
+👨💻 **Full-Stack Developer** | 5+ years building enterprise-grade systems  
 
 ---
 
